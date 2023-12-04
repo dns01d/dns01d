@@ -1,5 +1,5 @@
 # dns01d
-A DNS-01 validation daemon
+An ACME DNS-01 validation daemon
 
 ## ACKNOWLEDGEMENTS
 
