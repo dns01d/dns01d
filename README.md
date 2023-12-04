@@ -1,5 +1,5 @@
 # dns01d
-An ACME DNS-01 validation daemon
+Self-hosted daemon for cloud provider ACME DNS-01 validation without exposing DNS API tokens
 
 ## ACKNOWLEDGEMENTS
 
